@@ -6,6 +6,7 @@
 UPX<br>
 ASPack<br>
 PECompact<br>
+NsPacK<br>
 Themida<br>
 VMProtect<br>
 Armadillo<br>
